@@ -1,5 +1,5 @@
 
-def put_foo()
+def put_stuff()
   put("Foo")
 end
 
